@@ -1,0 +1,5 @@
+{
+  "name": "Graph Coloring & Chromatic Polynomials",
+  "description": "An interactive tool to visualize graph coloring algorithms and explore chromatic polynomials using the deletion-contraction theorem. Select pre-defined graphs, including non-planar ones, run a backtracking algorithm to find a valid coloring, and compute their chromatic polynomial.",
+  "requestFramePermissions": []
+}
